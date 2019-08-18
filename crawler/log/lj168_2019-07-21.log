@@ -1,0 +1,1239 @@
+2019-07-21 13:55:34,236 - INFO -root : start running lj168
+2019-07-21 13:55:34,236 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:55:34,242 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:34,666 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:55:34,724 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:55:34,729 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:35,073 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:35,126 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:55:35,151 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:35,540 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:35,570 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:55:35,573 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:35,904 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:35,969 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:55:35,972 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:36,331 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:36,365 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:55:36,366 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:36,698 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:36,823 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:55:36,826 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:37,220 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:37,246 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:55:37,248 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:37,575 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:37,614 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:55:37,616 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:37,941 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:37,976 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:55:37,978 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:38,295 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:38,344 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:55:38,347 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:38,669 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:38,710 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:55:38,713 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:39,340 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:39,403 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:55:39,410 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:39,746 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:39,794 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:55:39,800 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:40,149 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:40,183 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:55:40,185 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:40,509 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:40,542 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:55:40,544 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:41,161 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:41,215 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:55:41,219 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:41,540 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:41,581 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:55:41,583 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:44,931 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:44,956 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:55:44,958 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:45,295 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:45,336 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:55:45,339 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:45,662 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:46,024 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:55:46,057 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:46,501 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:46,633 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:55:46,638 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:47,015 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:55:47,051 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:55:47,053 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:47,373 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:47,406 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:55:47,410 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:47,728 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:47,767 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:55:47,770 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:48,137 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:48,160 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:55:48,163 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:48,481 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:48,510 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:55:48,516 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:48,823 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:48,854 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:55:48,857 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:49,184 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:49,213 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:55:49,215 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:52,584 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:52,608 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:55:52,611 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:53,322 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:53,738 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:55:53,740 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:54,365 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:54,406 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:55:54,408 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:54,732 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:54,755 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:55:54,757 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:55,137 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:55,171 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:55:55,173 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:55,497 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:55,536 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:55:55,538 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:55,870 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:55,916 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:55:55,918 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:56,252 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:56,290 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:55:56,293 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:56,626 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:56,665 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:55:56,671 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:57,293 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:57,332 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:55:57,336 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:57,660 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:57,762 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:55:57,765 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:58,113 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:58,156 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:55:58,158 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:58,478 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:58,521 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:55:58,524 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:58,856 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:58,915 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:55:58,917 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:59,542 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:55:59,587 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:55:59,589 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:55:59,900 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:55:59,940 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:55:59,943 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:00,298 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:00,346 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:56:00,348 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:00,686 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:00,726 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:56:00,732 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:01,054 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:01,100 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:56:01,102 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:01,415 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:01,467 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:56:01,471 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:01,797 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:01,841 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:56:01,843 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:02,175 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:02,237 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:56:02,240 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:02,572 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:02,617 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:56:02,620 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:02,934 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:02,970 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:56:02,973 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:03,332 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:03,380 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:56:03,383 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:03,720 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:03,766 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:56:03,770 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:04,381 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:04,429 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:56:04,438 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:04,778 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:04,825 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:56:04,828 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:05,183 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:05,230 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:56:05,233 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:05,574 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:05,623 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:56:05,627 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:05,952 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:06,055 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:56:06,058 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:06,378 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:06,428 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:56:06,436 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:06,757 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:06,801 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:56:06,804 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:07,150 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:07,188 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:56:07,191 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:07,528 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:07,587 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:56:07,591 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:07,926 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:56:07,965 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:56:07,969 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:08,300 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:08,345 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:56:08,349 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:08,699 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:08,738 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:56:08,741 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:09,358 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:09,405 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:56:09,408 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:10,952 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:11,064 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:56:11,092 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:11,772 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:11,866 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:56:11,901 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:12,292 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:12,347 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:56:12,350 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:12,692 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:12,975 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:56:13,037 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:13,480 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:13,534 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:56:13,538 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:13,884 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:13,945 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:56:13,966 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:14,307 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:14,366 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:56:14,370 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:14,685 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:14,730 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:56:14,734 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:15,050 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:15,087 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:56:15,089 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:15,401 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:15,444 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:56:15,447 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:19,325 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:19,598 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:56:19,607 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:19,935 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:19,969 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:56:19,972 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:20,309 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:20,346 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:56:20,349 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:20,690 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:20,731 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:56:20,733 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:21,062 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:21,097 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:56:21,100 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:21,414 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:21,454 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:56:21,456 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:21,777 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:21,826 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:56:21,829 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:22,747 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:56:22,781 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:56:22,784 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:23,435 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:23,532 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:56:23,535 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:23,926 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:24,024 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:56:24,028 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:24,368 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:24,419 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:56:24,427 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:25,067 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:25,101 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:56:25,104 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:25,736 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:25,766 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:56:25,769 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:26,101 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:26,174 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:56:26,179 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:26,581 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:26,835 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:56:26,868 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:27,280 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:27,329 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:56:27,334 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:27,976 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:28,023 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:56:28,027 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:28,363 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:28,420 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:56:28,428 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:29,167 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:29,203 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:56:29,206 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:30,403 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:30,495 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:56:30,498 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:31,420 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:31,458 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:56:31,460 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:32,244 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:32,282 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:56:32,285 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:33,192 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:33,277 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:56:33,281 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:34,189 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:34,229 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:56:34,232 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:35,213 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:35,364 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:56:35,370 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:36,280 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:36,315 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:56:36,318 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:36,694 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:36,752 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:56:36,755 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:37,169 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:37,228 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:56:37,230 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:37,772 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:56:37,798 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:56:37,800 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:38,184 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:38,285 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:56:38,290 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:38,721 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:38,782 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:56:38,785 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:39,202 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:39,288 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:56:39,293 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:39,679 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:39,763 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:56:39,766 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:40,150 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:40,711 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:56:40,714 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:44,154 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:44,238 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:56:44,242 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:44,663 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:44,741 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:56:44,745 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:45,244 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:45,343 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:56:45,347 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:45,805 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:45,876 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:56:45,879 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:46,298 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:46,383 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:56:46,389 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:47,112 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:47,222 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:56:47,230 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:50,675 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:50,733 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:56:50,736 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:51,119 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:51,205 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:56:51,219 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:51,657 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:51,709 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:56:51,726 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:52,211 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:52,260 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:56:52,262 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:53,026 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:53,073 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:56:53,076 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:53,498 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:53,613 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:56:53,618 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:55,319 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:55,485 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:56:55,490 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:55,985 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:56,124 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:56:56,135 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:56:56,494 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:56:56,577 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:56:56,579 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:00,337 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:57:00,440 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:57:00,446 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:01,423 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:01,489 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:57:01,491 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:01,833 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:01,885 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:57:01,889 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:02,274 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:02,368 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:57:02,369 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:03,133 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:03,244 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:57:03,247 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:03,777 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:03,889 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:57:03,893 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:07,570 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:07,692 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:57:07,700 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:11,439 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:11,540 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:57:11,543 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:12,240 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:13,063 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:57:13,066 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:13,461 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:13,601 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:57:13,604 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:14,325 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:14,407 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:57:14,410 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:14,770 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:14,840 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:57:14,842 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:15,162 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:15,252 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:57:15,256 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:15,687 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:15,736 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:57:15,742 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:16,381 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:16,445 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:57:16,451 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:17,444 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:17,590 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:57:17,629 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:17,994 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:18,040 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:57:18,043 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:18,670 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:18,711 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:57:18,713 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:19,142 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:19,186 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:57:19,188 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:19,553 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:19,694 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:57:19,699 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:20,021 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:20,129 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:57:20,132 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:20,476 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:57:20,533 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:57:20,547 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:20,890 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:20,931 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:57:20,935 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:21,672 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:21,739 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:57:21,743 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:25,246 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:25,372 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:57:25,376 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:25,826 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:25,919 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:57:25,922 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:26,322 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:26,402 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:57:26,406 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:29,867 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:29,976 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:57:29,979 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:30,409 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:30,503 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:57:30,506 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:30,968 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:31,055 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:57:31,057 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:32,143 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:32,234 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:57:32,236 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:32,583 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:32,635 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:57:32,640 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:33,332 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:33,446 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:57:33,449 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:33,940 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:34,387 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:57:34,392 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:34,831 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:35,049 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:57:35,053 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:35,435 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:35,528 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:57:35,530 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:36,209 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:36,323 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:57:36,327 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:36,719 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:36,825 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:57:36,828 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:40,287 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:40,392 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:57:40,397 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:40,824 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:40,935 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:57:40,938 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:41,690 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:41,786 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:57:41,790 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:42,324 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:42,473 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:57:42,477 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:43,012 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:57:43,080 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:57:43,083 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:43,453 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:43,553 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:57:43,556 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:43,901 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:44,033 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:57:44,039 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:44,947 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:45,342 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:57:45,347 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:46,920 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:47,019 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:57:47,023 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:50,402 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:50,456 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:57:50,460 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:50,800 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:50,890 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:57:50,894 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:51,324 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:51,512 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:57:51,516 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:52,217 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:52,282 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:57:52,284 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:52,795 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:52,870 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:57:52,873 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:53,374 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:53,658 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:57:53,667 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:54,173 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:54,233 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:57:54,236 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:54,605 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:54,758 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:57:54,793 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:55,311 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:55,456 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:57:55,478 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:56,132 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:56,258 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:57:56,262 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:56,806 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:56,886 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:57:56,888 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:57,555 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:57,689 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:57:57,693 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:58,107 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:58,146 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:57:58,152 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:58,479 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:58,505 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:57:58,508 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:58,854 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:58,979 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:57:58,981 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:59,365 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:57:59,447 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:57:59,449 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:57:59,837 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:57:59,967 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:57:59,977 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:00,453 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:00,515 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:58:00,517 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:00,923 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:00,954 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:58:00,958 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:01,350 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:01,436 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:58:01,441 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:01,960 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:02,022 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:58:02,025 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:02,437 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:02,505 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:58:02,509 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:05,959 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:06,061 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:58:06,064 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:06,415 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:06,529 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:58:06,532 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:06,995 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:07,081 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:58:07,084 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:07,609 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:07,716 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:58:07,718 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:08,138 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:08,266 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:58:08,268 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:08,702 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:08,753 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:58:08,756 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:09,242 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:09,347 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:58:09,353 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:09,838 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:10,604 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:58:10,608 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:11,655 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:11,764 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:58:11,766 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:15,258 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:15,328 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:58:15,336 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:15,799 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:15,852 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:58:15,854 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:16,570 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:16,616 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:58:16,619 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:16,950 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:17,026 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:58:17,030 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:17,718 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:17,769 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:58:17,771 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:18,204 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:18,336 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:58:18,338 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:18,740 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:58:18,783 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:58:18,785 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:19,208 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:19,296 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:58:19,302 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:20,057 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:20,150 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:58:20,153 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:20,591 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:20,674 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:58:20,678 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:21,161 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:21,378 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:58:21,380 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:22,060 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:22,158 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:58:22,160 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:22,626 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:22,679 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:58:22,683 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:26,093 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:26,149 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:58:26,151 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:26,517 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:26,643 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:58:26,646 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:26,992 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:27,114 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:58:27,119 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:27,504 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:27,571 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:58:27,574 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:28,197 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:28,310 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:58:28,316 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:28,742 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:28,834 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:58:28,839 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:29,200 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:29,283 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:58:29,287 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:29,783 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:29,861 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:58:29,866 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:30,295 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:30,416 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:58:30,422 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:30,972 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:31,050 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:58:31,053 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:31,852 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:32,039 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:58:32,044 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:32,794 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:32,967 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:58:32,973 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:33,454 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:33,549 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:58:33,553 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:34,315 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:34,458 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:58:34,464 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:34,921 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:58:35,054 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:58:35,056 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:35,853 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:35,886 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:58:35,888 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:36,256 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:36,318 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:58:36,338 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:36,744 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:36,803 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:58:36,805 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:37,173 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:37,251 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:58:37,256 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:38,006 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:38,119 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:58:38,124 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:38,613 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:38,714 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:58:38,716 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:39,126 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:39,194 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:58:39,197 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:39,741 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:39,793 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:58:39,797 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:40,172 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:40,294 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:58:40,301 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:40,992 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:41,042 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:58:41,044 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:41,442 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:41,531 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:58:41,535 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:44,993 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:45,085 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:58:45,087 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:45,524 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:45,573 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:58:45,576 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:45,992 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:46,058 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:58:46,060 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:46,804 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:46,841 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:58:46,846 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:47,266 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:47,305 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:58:47,307 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:47,734 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:47,820 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:58:47,825 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:51,261 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:51,323 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:58:51,325 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:51,765 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:51,816 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:58:51,819 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:52,177 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:52,261 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:58:52,266 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:52,840 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:58:52,908 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:58:52,913 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:53,329 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:53,508 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:58:53,513 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:53,950 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:54,061 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:58:54,065 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:54,478 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:54,553 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:58:54,558 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:55,111 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:55,227 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:58:55,229 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:55,631 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:55,713 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:58:55,715 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:56,421 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:56,542 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:58:56,545 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:56,914 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:57,019 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:58:57,023 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:57,857 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:57,919 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:58:57,925 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:58,330 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:58,383 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:58:58,385 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:58,759 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:58,865 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:58:58,869 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:58:59,426 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:58:59,542 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:58:59,547 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:00,010 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:00,094 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:59:00,097 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:00,736 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:00,838 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:59:00,841 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:01,201 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:01,254 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:59:01,256 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:01,641 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:01,687 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:59:01,690 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:02,201 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:02,324 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:59:02,328 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:02,770 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:02,846 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:59:02,851 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:03,561 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:03,637 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:59:03,642 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:04,202 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:04,317 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:59:04,320 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:04,778 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:04,874 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:59:04,877 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:05,461 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:59:05,548 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:59:05,552 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:06,357 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:06,518 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:59:06,520 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:06,990 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:07,058 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:59:07,061 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:07,407 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:07,454 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:59:07,456 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:07,957 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:08,038 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:59:08,042 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:08,403 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:08,507 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:59:08,511 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:08,936 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:09,032 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:59:09,036 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:09,529 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:09,572 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:59:09,574 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:10,066 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:10,106 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:59:10,109 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:10,547 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:10,625 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:59:10,627 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:11,092 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:11,194 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:59:11,196 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:11,706 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:11,809 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:59:11,819 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:15,366 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:15,460 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:59:15,463 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:15,880 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:15,967 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:59:15,969 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:16,357 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:16,499 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:59:16,505 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:17,219 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:17,247 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:59:17,249 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:17,721 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:17,809 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:59:17,817 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:18,552 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:18,664 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:59:18,668 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:19,058 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:19,104 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:59:19,111 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:22,552 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:22,671 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:59:22,676 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:23,077 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:23,152 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:59:23,155 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:23,523 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:59:23,585 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:59:23,588 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:27,015 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:27,096 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:59:27,101 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:27,618 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:27,699 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:59:27,702 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:28,130 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:28,218 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:59:28,223 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:28,660 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:28,760 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:59:28,762 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:29,128 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:29,220 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:59:29,226 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:29,652 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:29,733 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:59:29,737 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:30,198 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:30,286 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:59:30,289 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:30,997 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:31,113 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:59:31,117 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:31,575 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:31,640 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:59:31,643 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:32,506 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:32,556 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:59:32,558 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:33,446 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:33,521 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:59:33,525 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:33,990 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:34,086 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:59:34,091 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:34,514 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:34,656 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:59:34,663 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:35,058 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:35,133 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:59:35,138 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:35,669 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:35,768 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:59:35,773 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:36,218 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:36,340 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:59:36,347 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:36,779 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:36,878 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:59:36,883 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:37,412 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:37,521 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:59:37,527 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:37,975 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:38,081 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:59:38,086 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:38,456 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:38,581 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:59:38,586 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:39,099 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:59:39,177 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:59:39,180 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:39,665 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:39,753 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:59:39,757 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:40,334 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:40,447 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:59:40,450 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:40,829 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:40,915 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:59:40,918 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:41,449 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:41,556 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:59:41,560 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:42,204 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:42,308 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 13:59:42,311 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:43,402 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:43,657 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 13:59:43,674 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:44,038 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:44,132 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 13:59:44,134 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:44,554 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:44,637 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 13:59:44,645 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:45,378 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:45,573 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 13:59:45,577 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:46,013 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:46,066 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 13:59:46,067 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:46,570 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:46,693 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 13:59:46,695 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:47,254 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:47,356 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 13:59:47,364 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:51,226 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:51,371 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 13:59:51,374 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:52,021 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:52,098 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 13:59:52,102 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:52,551 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:52,640 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 13:59:52,644 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:53,195 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:53,287 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 13:59:53,292 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:54,309 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:54,414 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 13:59:54,419 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:55,045 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:55,116 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 13:59:55,118 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:55,649 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:55,734 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 13:59:55,739 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:56,283 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:56,365 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 13:59:56,368 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:56,948 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 13:59:57,025 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 13:59:57,030 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:57,535 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:57,619 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 13:59:57,622 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:58,606 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:58,694 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 13:59:58,697 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:59,170 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:59,249 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 13:59:59,253 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 13:59:59,724 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 13:59:59,823 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 13:59:59,827 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:00,349 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:00,471 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 14:00:00,477 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:00,930 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:00,991 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 14:00:00,998 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:01,456 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:01,521 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 14:00:01,524 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:02,743 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:03,028 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 14:00:03,031 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:07,088 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:07,223 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 14:00:07,225 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:07,694 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:07,752 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 14:00:07,755 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:08,288 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:08,391 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 14:00:08,394 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:08,958 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:09,015 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 14:00:09,019 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:09,594 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:09,724 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 14:00:09,730 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:10,559 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:10,609 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 14:00:10,611 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:11,021 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:11,126 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 14:00:11,132 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:11,886 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:11,952 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 14:00:11,954 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:12,669 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:12,757 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 14:00:12,760 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:13,536 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056445/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:13,596 - INFO -root : news link: https://www.lj168.com/1056444/disnew
+2019-07-21 14:00:13,603 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:17,114 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056444/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:17,217 - INFO -root : news link: https://www.lj168.com/1056443/disnew
+2019-07-21 14:00:17,220 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:18,036 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056443/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:18,132 - INFO -root : req_link :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 14:00:18,136 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:22,393 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 14:00:22,589 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 14:00:22,591 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:23,008 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:23,053 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 14:00:23,056 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:23,752 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:23,858 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 14:00:23,862 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:24,290 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:24,413 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 14:00:24,417 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:24,818 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:24,909 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 14:00:24,911 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:31,259 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:31,341 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 14:00:31,345 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:31,749 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:31,784 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 14:00:31,787 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:32,182 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:32,283 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 14:00:32,289 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:33,020 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:33,142 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 14:00:33,145 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:33,601 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:33,666 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 14:00:33,669 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:34,352 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:34,430 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 14:00:34,434 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:34,889 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:34,923 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 14:00:34,926 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:35,558 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:35,669 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 14:00:35,678 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:36,085 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:36,128 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 14:00:36,131 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:36,495 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:36,581 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 14:00:36,585 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:37,008 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:37,099 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 14:00:37,102 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:00:37,593 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 14:00:37,681 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 14:00:37,683 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:02,258 - INFO -root : start running lj168
+2019-07-21 14:02:02,259 - INFO -root : req new page of :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 14:02:02,265 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:02,790 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 14:02:02,841 - INFO -root : news title: 农业农村部：蔬菜整体价格或将高于去年 但涨...
+2019-07-21 14:02:02,842 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 14:02:02,845 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:03,384 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:03,420 - INFO -root : https://www.lj168.com/1056516/disnew ...done
+2019-07-21 14:02:03,421 - INFO -root : news title: 发改委：海南自由贸易港相关工作正在积极推...
+2019-07-21 14:02:03,421 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 14:02:03,424 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:04,052 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:04,092 - INFO -root : https://www.lj168.com/1056496/disnew ...done
+2019-07-21 14:02:04,093 - INFO -root : news title: 山东省省长：正在组建山东省港口集团 推动沿...
+2019-07-21 14:02:04,093 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 14:02:04,094 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:04,454 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:04,490 - INFO -root : https://www.lj168.com/1056495/disnew ...done
+2019-07-21 14:02:04,491 - INFO -root : news title: 水泥行业上半年利润预计达800亿元 同比增长...
+2019-07-21 14:02:04,491 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 14:02:04,494 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:04,855 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056494/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:04,884 - INFO -root : https://www.lj168.com/1056494/disnew ...done
+2019-07-21 14:02:04,884 - INFO -root : news title: 国资委：积极稳妥推进混合所有制改革 更加注...
+2019-07-21 14:02:04,885 - INFO -root : news link: https://www.lj168.com/1056493/disnew
+2019-07-21 14:02:04,887 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:05,312 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056493/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:05,347 - INFO -root : https://www.lj168.com/1056493/disnew ...done
+2019-07-21 14:02:05,347 - INFO -root : news title: 国资委：已梳理出一批可申报科创板的央企 1...
+2019-07-21 14:02:05,348 - INFO -root : news link: https://www.lj168.com/1056492/disnew
+2019-07-21 14:02:05,349 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:05,805 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056492/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:05,833 - INFO -root : https://www.lj168.com/1056492/disnew ...done
+2019-07-21 14:02:05,834 - INFO -root : news title: 国资委：下一步推进装备制造、船舶、化工等...
+2019-07-21 14:02:05,834 - INFO -root : news link: https://www.lj168.com/1056491/disnew
+2019-07-21 14:02:05,837 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:06,228 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056491/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:06,288 - INFO -root : https://www.lj168.com/1056491/disnew ...done
+2019-07-21 14:02:06,289 - INFO -root : news title: 滨化集团电子级氢氟酸在市场推进方面取得重...
+2019-07-21 14:02:06,290 - INFO -root : news link: https://www.lj168.com/1056488/disnew
+2019-07-21 14:02:06,309 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:06,722 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056488/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:06,759 - INFO -root : https://www.lj168.com/1056488/disnew ...done
+2019-07-21 14:02:06,760 - INFO -root : news title: 抱团股的补跌，注意投资风险
+2019-07-21 14:02:06,760 - INFO -root : news link: https://www.lj168.com/1056473/disnew
+2019-07-21 14:02:06,763 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:07,456 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056473/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:07,495 - INFO -root : https://www.lj168.com/1056473/disnew ...done
+2019-07-21 14:02:07,495 - INFO -root : news title: 多家上市航企披露运营数据 6月旅客周转量均...
+2019-07-21 14:02:07,496 - INFO -root : news link: https://www.lj168.com/1056470/disnew
+2019-07-21 14:02:07,497 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:07,838 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056470/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:07,875 - INFO -root : https://www.lj168.com/1056470/disnew ...done
+2019-07-21 14:02:07,876 - INFO -root : news title: 比特币跌破1万美元整数关口
+2019-07-21 14:02:07,877 - INFO -root : news link: https://www.lj168.com/1056469/disnew
+2019-07-21 14:02:07,879 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:08,318 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056469/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:08,355 - INFO -root : https://www.lj168.com/1056469/disnew ...done
+2019-07-21 14:02:08,355 - INFO -root : news title: 两市融资余额减少22.4亿元
+2019-07-21 14:02:08,356 - INFO -root : news link: https://www.lj168.com/1056468/disnew
+2019-07-21 14:02:08,358 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:08,872 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056468/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:09,255 - INFO -root : https://www.lj168.com/1056468/disnew ...done
+2019-07-21 14:02:09,255 - INFO -root : news title: 明天起海南8个非开放海域将临时对境外游艇开...
+2019-07-21 14:02:09,255 - INFO -root : news link: https://www.lj168.com/1056467/disnew
+2019-07-21 14:02:09,257 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:09,988 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056467/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:10,045 - INFO -root : https://www.lj168.com/1056467/disnew ...done
+2019-07-21 14:02:10,046 - INFO -root : news title: 今年上半年全国造船三大指标一升两降 国际市...
+2019-07-21 14:02:10,046 - INFO -root : news link: https://www.lj168.com/1056466/disnew
+2019-07-21 14:02:10,047 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:10,755 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056466/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:10,784 - INFO -root : https://www.lj168.com/1056466/disnew ...done
+2019-07-21 14:02:10,785 - INFO -root : news title: 国务院：鼓励企业研发生产符合健康需求的产...
+2019-07-21 14:02:10,785 - INFO -root : news link: https://www.lj168.com/1056465/disnew
+2019-07-21 14:02:10,787 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:11,169 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056465/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:11,237 - INFO -root : https://www.lj168.com/1056465/disnew ...done
+2019-07-21 14:02:11,238 - INFO -root : news title: 上半年 新能源汽车产量同比增长34.6%
+2019-07-21 14:02:11,238 - INFO -root : news link: https://www.lj168.com/1056461/disnew
+2019-07-21 14:02:11,240 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:11,595 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056461/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:11,627 - INFO -root : https://www.lj168.com/1056461/disnew ...done
+2019-07-21 14:02:11,627 - INFO -root : news title: 中央发文要求做好财政收支预算管理 支持落实...
+2019-07-21 14:02:11,627 - INFO -root : news link: https://www.lj168.com/1056446/disnew
+2019-07-21 14:02:11,629 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 14:02:12,333 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056446/disnew HTTP/1.1" 200 None
+2019-07-21 14:02:12,384 - INFO -root : https://www.lj168.com/1056446/disnew ...done
+2019-07-21 14:02:12,386 - INFO -root : news title: 华为董事长：鸿蒙是物联网操作系统 安卓是手...
+2019-07-21 14:02:12,386 - INFO -root : news link: https://www.lj168.com/1056445/disnew
+2019-07-21 14:02:12,388 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 17:51:35,155 - INFO -root : start running lj168
+2019-07-21 17:51:35,155 - INFO -root : req new page of :https://www.lj168.com/1008/dissort?page=2
+2019-07-21 17:51:35,163 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 17:51:37,465 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1008/dissort?page=2 HTTP/1.1" 200 None
+2019-07-21 17:51:37,525 - INFO -root : news title: 农业农村部：蔬菜整体价格或将高于去年 但涨...
+2019-07-21 17:51:37,526 - INFO -root : news link: https://www.lj168.com/1056516/disnew
+2019-07-21 17:51:37,529 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 17:51:39,859 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056516/disnew HTTP/1.1" 200 None
+2019-07-21 17:51:39,910 - INFO -root : https://www.lj168.com/1056516/disnew ...done
+2019-07-21 17:51:39,910 - INFO -root : news title: 发改委：海南自由贸易港相关工作正在积极推...
+2019-07-21 17:51:39,910 - INFO -root : news link: https://www.lj168.com/1056496/disnew
+2019-07-21 17:51:39,914 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 17:51:42,212 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056496/disnew HTTP/1.1" 200 None
+2019-07-21 17:51:42,273 - INFO -root : https://www.lj168.com/1056496/disnew ...done
+2019-07-21 17:51:42,275 - INFO -root : news title: 山东省省长：正在组建山东省港口集团 推动沿...
+2019-07-21 17:51:42,276 - INFO -root : news link: https://www.lj168.com/1056495/disnew
+2019-07-21 17:51:42,278 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
+2019-07-21 17:51:44,576 - DEBUG -urllib3.connectionpool : https://www.lj168.com:443 "GET /1056495/disnew HTTP/1.1" 200 None
+2019-07-21 17:51:45,008 - INFO -root : https://www.lj168.com/1056495/disnew ...done
+2019-07-21 17:51:45,008 - INFO -root : news title: 水泥行业上半年利润预计达800亿元 同比增长...
+2019-07-21 17:51:45,008 - INFO -root : news link: https://www.lj168.com/1056494/disnew
+2019-07-21 17:51:45,011 - DEBUG -urllib3.connectionpool : Starting new HTTPS connection (1): www.lj168.com:443
