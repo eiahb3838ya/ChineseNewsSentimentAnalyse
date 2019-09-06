@@ -14,23 +14,17 @@ shengSheKe_chineseNewSentiment
 
 2. 利用情緒辭典找出極端正負新聞的分數(搜集所有潛在的特徵詞)做為我們的標註依據
 
-舉例而言：
-
-前5% (樂觀)：包括 03featureExtraction_featureSelection/pos_table.csv
-
-後5% (悲觀)：包括 03featureExtraction_featureSelection/neg_table.csv
-
-標註完成在: 03featureExtraction_featureSelection/labled_table.csv
+  1. 前5% (樂觀)：包括 03featureExtraction_featureSelection/pos_table.csv
+  2. 後5% (悲觀)：包括 03featureExtraction_featureSelection/neg_table.csv
+  3. 標註完成在: 03featureExtraction_featureSelection/labled_table.csv
 
 3. 特徵詞的每一則新聞字數打散，進行卡方獨立性檢定:
-
 經過卡方檢定(alpha = 0.05)者:
 03featureExtraction_featureSelection/selected_neg_table.csv
 03featureExtraction_featureSelection/selected_pos_table.csv
 
 
 4. 利用TF-IDF方法計算IOS跟IPS：
-
 此階段計算投資人在某月t對ith
 廠商的“樂觀情緒密度”(IOSit)及“悲觀情緒密度”(IPSit)。藉由對樂觀情緒計算特徵詞，量化投資人對特定廠商的樂觀情緒之程度。本計畫首先將投資人每篇對ith廠商樂觀情緒、jth特徵詞的詞頻 、TF乘以相對應的權重
 ，並累積對樂觀情緒的所有代表性特徵詞，計算為每篇IOS(IOSidk)。
