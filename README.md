@@ -13,10 +13,9 @@ shengSheKe_chineseNewSentiment
 
 
 2. 利用情緒辭典找出極端正負新聞的分數(搜集所有潛在的特徵詞)做為我們的標註依據
-
-  1. 前5% (樂觀)：包括 03featureExtraction_featureSelection/pos_table.csv
-  2. 後5% (悲觀)：包括 03featureExtraction_featureSelection/neg_table.csv
-  3. 標註完成在: 03featureExtraction_featureSelection/labled_table.csv
+  -  前5% (樂觀)：包括 03featureExtraction_featureSelection/pos_table.csv
+  -  後5% (悲觀)：包括 03featureExtraction_featureSelection/neg_table.csv
+  -  標註完成在: 03featureExtraction_featureSelection/labled_table.csv
 
 3. 特徵詞的每一則新聞字數打散，進行卡方獨立性檢定:
 經過卡方檢定(alpha = 0.05)者:
@@ -30,5 +29,5 @@ shengSheKe_chineseNewSentiment
 ，並累積對樂觀情緒的所有代表性特徵詞，計算為每篇IOS(IOSidk)。
 接續，我加總每篇的IOS計算為每月的IOS, 並加總每篇的IPS計算為每月的IPS.
 
-每篇的 IOS、IPS 如下檔案: 03featureExtraction_featureSelection/ios_ips.csv
+每篇的 IOS、IPS 如下檔案: 03featureExtraction_featureSelection/ios_ips.csv  
 每上市公司的 IOS、IPS 位於: 04gettingTables\company_table
