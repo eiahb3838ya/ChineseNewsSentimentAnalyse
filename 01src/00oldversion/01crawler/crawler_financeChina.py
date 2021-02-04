@@ -1,40 +1,12 @@
+#%%
 import logging
 import datetime
 import requests, os
 from bs4 import BeautifulSoup
 import pandas as pd
+from logger import Logger
 
-class Logger(object):
-    def __init__(self,exeFileName=""):
-        self.logger=logging.getLogger('')
-        self.logger.setLevel(logging.DEBUG)
-        format='%(asctime)s - %(levelname)s -%(name)s : %(message)s'
-        formatter=logging.Formatter(format)
-        streamhandler=logging.StreamHandler()
-        streamhandler.setFormatter(formatter)
-        self.logger.addHandler(streamhandler)
-        log_filename = "log/"+exeFileName+"_"+datetime.datetime.now().strftime("%Y-%m-%d.log")
-        filehandler=logging.FileHandler(log_filename, encoding='utf-8')
-        filehandler.setFormatter(formatter)
-        self.logger.addHandler(filehandler)
-    def debug(self, msg):
-        self.logger.debug(msg)
-    def info(self, msg):
-        self.logger.info(msg)
-    def warning(self, msg):
-        self.logger.warning(msg)
-    def error(self, msg):
-        self.logger.error(msg)
-    def critical(self, msg):
-        self.logger.critical(msg)
-    def log(self, level, msg):
-        self.logger.log(level, msg)
-    def setLevel(self, level):
-        self.logger.setLevel(level)
-    def disable(self):
-        logging.disable(50)
-
-
+#%%
 def get_link_content(link):
     # connection error
     try:
@@ -77,10 +49,6 @@ def get_link_content(link):
             logger.warning(str(e)+"use new version to match time still fail")
         old = True
         # print(link_time_str)
-
-
-
-
     if len(link_time_str)==0:
         logger.warning("nothing in link_time")
         link_time_dt = ""
@@ -96,7 +64,7 @@ def get_link_content(link):
             link_time_dt=""
     return(link_p,link_time_dt)
 
-
+#%%
 def get_dict_list(ul_list):
     try:
         a_list=ul_list.findAll('a')
@@ -130,56 +98,65 @@ def get_dict_list(ul_list):
     return(dict_list)
 
 
-
+#%%
 EXEFILENAME="financeChina"
 logger=Logger(EXEFILENAME)
 logger.info("start running "+EXEFILENAME)
 
-ROOT_LINK="http://finance.china.com.cn/stock/"
-sub_link=["ssgs"]#,"ssgs","zqyw"
+index_link_dict = {
+    "ssgs":"http://app.finance.china.com.cn/news/column.php?cname=上市公司",
+    "zqyw":"http://app.finance.china.com.cn/news/column.php?cname=证券要闻",
+    "dpfx":"http://app.finance.china.com.cn/news/column.php?cname=大盘分析"
+}
 
-ssgsLink="http://app.finance.china.com.cn/news/column.php?cname=上市公司&p=176"
-zqywLink = "http://app.finance.china.com.cn/news/column.php?cname=证券要闻&p=52"
-dpLink = "http://app.finance.china.com.cn/news/column.php?cname=大盘分析&p=18"
+
+#%%
 # PAGE154
-for this_sub_link in sub_link:
+# for this_sub_link in sub_link:
     # req_link=ROOT_LINK+this_sub_link
-    req_link = ssgsLink
-    while(True):
-        logger.info("req new page of :"+req_link)
-        # connection error
-        try:
-            res=requests.get(req_link)
-        except Exception as e:
-            logger.warning(str(e))
-            logger.warning("the page not found")
+
+req_link = ssgsLink
+while(True):
+    logger.info("req new page of :"+req_link)
+    # connection error
+    try:
+        res=requests.get(req_link)
+    except Exception as e:
+        logger.warning(str(e))
+        logger.warning("the page not found")
+        break
+
+    res.encoding=('utf8')
+    html_doc=res.text
+    soup = BeautifulSoup(html_doc, 'html.parser')
+    ul_list=soup.find("ul",class_="news_list")
+    if not ul_list:
+        logger.warning("there's no ul_list")
+
+    dict_list=get_dict_list(ul_list)
+    all_df=pd.DataFrame(dict_list,columns=["datetime","title","content","link","source"])
+
+   
+   
+   
+   
+   
+   
+    file_path = "news_data/"+EXEFILENAME+"4.csv"
+    if (os.path.isfile(file_path)):
+        all_df.to_csv(file_path,mode="a",index_label="id", header=False)
+        logger.info("append csv page: "+req_link)
+    else:
+        all_df.to_csv(file_path,mode="a",index_label="id")
+        logger.info("new write csv page: "+req_link)
+    
+    if len(dict_list)>0:
+        next_a=soup.find("ul",class_="page").findAll("li")[1].a
+        req_link=next_a.get("href")
+        if len(req_link)<=0:
             break
-
-        res.encoding=('utf8')
-        html_doc=res.text
-        soup = BeautifulSoup(html_doc, 'html.parser')
-        ul_list=soup.find("ul",class_="news_list")
-        if not ul_list:
-            logger.warning("there's no ul_list")
-
-        dict_list=get_dict_list(ul_list)
-        all_df=pd.DataFrame(dict_list,columns=["datetime","title","content","link","source"])
-
-        file_path = "news_data/"+EXEFILENAME+"4.csv"
-        if (os.path.isfile(file_path)):
-            all_df.to_csv(file_path,mode="a",index_label="id", header=False)
-            logger.info("append csv page: "+req_link)
-        else:
-            all_df.to_csv(file_path,mode="a",index_label="id")
-            logger.info("new write csv page: "+req_link)
-        
-        if len(dict_list)>0:
-            next_a=soup.find("ul",class_="page").findAll("li")[1].a
-            req_link=next_a.get("href")
-            if len(req_link)<=0:
-                break
-            elif req_link.startswith("/news/"):
-                req_link="http://app.finance.china.com.cn"+req_link
-        else:
-            break        
+        elif req_link.startswith("/news/"):
+            req_link="http://app.finance.china.com.cn"+req_link
+    else:
+        break        
 
