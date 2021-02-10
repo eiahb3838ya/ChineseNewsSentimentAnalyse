@@ -74,6 +74,7 @@ class TongHuaShunCrawler(object):
         dict_list=[]
 
         for a_span in span_list:
+            time.sleep(0.25)
             a_a = a_span.a
             a_title=a_a.get("title")
             self.logger.debug("news title: "+a_title)

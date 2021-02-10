@@ -16,7 +16,7 @@ if not os.path.exists(SAVE_PATH):
 #%%
 def main():
     logger = Logger(LOGGER_PATH, "news_crawling")
-    sc = TongHuaShunCrawler(SAVE_PATH,25,20482,logger)
+    sc = TongHuaShunCrawler(SAVE_PATH,10220+20965-20482,20965,logger)
     sc.run('companynews_list')
     sc = TongHuaShunCrawler(SAVE_PATH,1,1690,logger)
     sc.run('today_list')
