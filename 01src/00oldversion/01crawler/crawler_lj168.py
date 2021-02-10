@@ -1,44 +1,14 @@
+#%%
 import logging
 import datetime
 import requests,os
 from bs4 import BeautifulSoup
 import pandas as pd
-
-class Logger(object):
-    def __init__(self,exeFileName=""):
-        self.logger=logging.getLogger('')
-        self.logger.setLevel(logging.DEBUG)
-        format='%(asctime)s - %(levelname)s -%(name)s : %(message)s'
-        formatter=logging.Formatter(format)
-        streamhandler=logging.StreamHandler()
-        streamhandler.setFormatter(formatter)
-        self.logger.addHandler(streamhandler)
-        log_filename = "log/"+exeFileName+"_"+datetime.datetime.now().strftime("%Y-%m-%d.log")
-        filehandler=logging.FileHandler(log_filename, encoding='utf-8')
-        filehandler.setFormatter(formatter)
-        self.logger.addHandler(filehandler)
-    def debug(self, msg):
-        self.logger.debug(msg)
-    def info(self, msg):
-        self.logger.info(msg)
-    def warning(self, msg):
-        self.logger.warning(msg)
-    def error(self, msg):
-        self.logger.error(msg)
-    def critical(self, msg):
-        self.logger.critical(msg)
-    def log(self, level, msg):
-        self.logger.log(level, msg)
-    def setLevel(self, level):
-        self.logger.setLevel(level)
-    def disable(self):
-        logging.disable(50)
-
-
+#%%
 def get_link_content(link):
     # connection error
     try:
-        link_res=requests.get(link)
+        link_res=requests.get(link,verify=False)
     except Exception as e:
         logger.warning(str(e))
         logger.warning("page not found")
@@ -105,7 +75,7 @@ def get_dict_list(ul_list):
     return(dict_list)
 
 
-
+#%%
 EXEFILENAME="lj168"
 logger=Logger(EXEFILENAME)
 logger.info("start running "+EXEFILENAME)
@@ -115,7 +85,7 @@ for page_num in range(1,561):
     logger.info("req new page of :"+req_link)
     # connection error
     try:
-        res=requests.get(req_link)
+        res=requests.get(req_link,verify=False)
     except Exception:
         logger.warning(Exception)
         logger.warning("the page not found")
@@ -133,10 +103,13 @@ for page_num in range(1,561):
 
     file_path = "news_data/"+EXEFILENAME+".csv"
     if (os.path.isfile(file_path)):
-            all_df.to_csv(file_path,mode="a",index_label="id", header=False)
-            logger.info("append csv page: "+req_link)
+        all_df.to_csv(file_path,mode="a",index_label="id", header=False)
+        logger.info("append csv page: "+req_link)
     else:
         all_df.to_csv(file_path,mode="a",index_label="id")
         logger.info("new write csv page: "+req_link)
     # all_df.to_csv("news_data/"+EXEFILENAME+".csv",mode="a")
 
+
+
+# %%
