@@ -1,5 +1,11 @@
-shengSheKe_chineseNewSentiment
+ChineseNewsSentimentAnalyse
 ==============================
+# 1. 爬蟲
+「第一阶段」：互联网爬虫搜集资料的属性、平台
+资料来源于五个投资平台
+分别是珞珈投资、中国网财经、新浪财经、同花顺财经和和讯股票。
+使用 runXxxxxCrawler 就可以開啟對應的爬蟲的 class
+https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/01crawler
 
 1. 情緒辭典的選擇
 
