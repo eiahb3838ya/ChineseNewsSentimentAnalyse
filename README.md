@@ -3,21 +3,36 @@ ChineseNewsSentimentAnalyse
 # 1. 爬蟲
 「第一阶段」：互联网爬虫搜集资料的属性、平台
 资料来源于五个投资平台
-分别是珞珈投资、中国网财经、新浪财经、同花顺财经和和讯股票。
+分别是
+1. 珞珈投资
+2. 中国网财经
+3. 新浪财经
+4. 同花顺财经
+5. 和讯股票
+
 使用 runXxxxxCrawler 就可以開啟對應的爬蟲的 class
 https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/01crawler
 
-1. 情緒辭典的選擇
 
-有分為一般性情緒辭典(台大)跟金融類情緒辭典(廈門大學)
+# 2. 查找新聞中提及公司名與已有情緒辭典
+1. 將新聞歸類於各個公司
+    替上證50 與 深證100 etf 成分股中股票查找新聞
+    每個公司都建立新聞庫供後續使用   https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/02preprocess/find_company.py
 
 
-|    name    | source |weight|file position
+2. 情緒辭典的選擇
+    有分為一般性情緒辭典(台大)跟金融類情緒辭典(廈門大學)
+
+
+|    name    | source |file position
 | ---------- | --- |--------|------|
-| 台湾大学简体中文情感极性词典ntusd |  https://reurl.cc/mdn94W |0.4|00ref/詞典|
-| 中文財務情緒字典 |https://clip.csie.org/10K/publications |0.6|00ref/詞典/中文財務情緒字典|
+| 台湾大学简体中文情感极性词典ntusd |  https://reurl.cc/mdn94W |00ref\情緒辭典|
+| 中文財務情緒字典 |https://clip.csie.org/10K/publications |00ref\情緒辭典|
 
+將每則新聞找出已知情緒詞並且存起來
+https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/02preprocess/find_keyterms.py
 
+---
 2. 利用情緒辭典找出極端正負新聞的分數(搜集所有潛在的特徵詞)做為我們的標註依據
   -  前5% (樂觀)：包括 03featureExtraction_featureSelection/pos_table.csv
   -  後5% (悲觀)：包括 03featureExtraction_featureSelection/neg_table.csv
