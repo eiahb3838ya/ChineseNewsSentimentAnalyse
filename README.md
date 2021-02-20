@@ -25,7 +25,7 @@ https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/01c
 
 
 |    name    | source |file position
-| ---------- | --- |--------|------|
+| ---------- | ---------| ----------
 | 台湾大学简体中文情感极性词典ntusd |  https://reurl.cc/mdn94W |00ref\情緒辭典|
 | 中文財務情緒字典 |https://clip.csie.org/10K/publications |00ref\情緒辭典|
 
