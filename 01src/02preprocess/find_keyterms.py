@@ -3,16 +3,16 @@ import pandas as pd
 from tqdm import tqdm
 tqdm.pandas()
 import os
-#%%
+#%% 
 def keyterm_in_content(a_content, keyterm):
+    '''
+    input a content (a news content for example)
+    return all the terms in keyterm series that appears in that certain content
+    '''
     try:
         return(keyterm[keyterm.apply(lambda x :x in a_content)].values)
     except Exception:
         return(pd.Series().values)
-# news_df['positive_terms'] = pd.Series()
-# a_content = news_df.iloc[0].content
-# keyterm = positive_terms
-# keyterm_in_content(a_content, keyterm)
 
 # %%
 def tag_news_keyterms(news, keyterm):
