@@ -32,12 +32,54 @@ https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/01c
 將每則新聞找出已知情緒詞並且存起來
 https://github.com/eiahb3838ya/ChineseNewsSentimentAnalyse/tree/master/01src/02preprocess/find_keyterms.py
 
----
-2. 利用情緒辭典找出極端正負新聞的分數(搜集所有潛在的特徵詞)做為我們的標註依據
-  -  前5% (樂觀)：包括 03featureExtraction_featureSelection/pos_table.csv
-  -  後5% (悲觀)：包括 03featureExtraction_featureSelection/neg_table.csv
-  -  標註完成在: 03featureExtraction_featureSelection/labled_table.csv
+3. idf 情緒分數     
+    我們使用 idf 的方法替每一個情緒詞進行打分
+    每個詞都有一個分數可以詳見於 02data\idf_dict 可以找到每個詞的分數
+    對於每個新聞我們都查找對應關鍵詞的 tfidf 分數
+    將正向詞語的 tfidf 分數相加並正規化得正向分數
+    將負向詞語的 tfidf 分數相加並正規化得負向分數
+4. 篩選出有用的正負特徵詞     
+    如果第k则新闻中的乐观特征词的得分高于悲观特征词的得分，则该新闻按乐观类别进行分类; 我们选择具有前5％分数的新闻的特征词作为我们的正向特征词。反之。该新闻按悲观类进行分类。同样，我们选择那些后5％得分的信息作为我们的负向特征词。
+    利用情緒辭典找出極端正負新聞的分數(搜集所有潛在的特徵詞)做為我們的標註依據
+  -  前5% (樂觀)：包括:
+     '开发',
+     '开心',
+     '开拓',
+     '开放',
+     '开放的',
+     '开采',
+     '异常',
+     '强',
+     '强度',
+     '当然',
+     '影响',
+     '得天独厚',
+     '微妙',
+     '微妙的',
+     '微微',
+     '德高望重',
+     '心动',等等
+  -  後5% (悲觀)：包括: 
+     '崩溃',
+     '责成',
+     '确定',
+     '无用的',
+     '不能',
+     '可靠',
+     '秘密的',
+     '无序',
+     '敏感性',
+     '负荷',
+     '沉寂',
+     '可疑的',
+     '困难的',
+     '捏造',
+     '入侵',等等
+ 
+  -  標註完成在: 02data\filterout_keyterms_dict
 
+
+---  
 3. 特徵詞的每一則新聞字數打散，進行卡方獨立性檢定:
 經過卡方檢定(alpha = 0.05)者:
 03featureExtraction_featureSelection/selected_neg_table.csv
