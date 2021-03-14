@@ -52,11 +52,18 @@ if __name__ == "__main__":
         "D:\\work\\profFang\\ChineseNewsSentiment\\00ref\\ETF成分股\\深证100etf-公司查询.csv", dtype=str)
     etf50_df = pd.read_csv(
         "D:\\work\\profFang\\ChineseNewsSentiment\\00ref\\ETF成分股\\上证50etf-公司查询.csv", dtype=str)
-    etf_df = pd.concat([etf100_df, etf50_df])
+    # etf_df = pd.concat([etf100_df, etf50_df])
 
+    keyterm = {}
     key = "证券代码"
     terms = ["证券代码", "股票简称", "董事长"]
-    keyterm = prepare_keyterm_dict(etf_df, key, *terms)
+    keyterm100 = prepare_keyterm_dict(etf100_df, key, *terms)
+    keyterm.update(keyterm100)
+    key = "股票代码"
+    terms = ["股票代码", "股票简称", "董事长"]
+    keyterm50 = prepare_keyterm_dict(etf50_df, key, *terms)
+    keyterm.update(keyterm50)
+
 
     import os
     news_data_path = "D:\\work\\profFang\\ChineseNewsSentiment\\02data\\news_data\\20210204"

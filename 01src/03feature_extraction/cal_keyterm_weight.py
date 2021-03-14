@@ -50,7 +50,7 @@ sum_tfidf = np.sum(list(a_set_key_weight.values()))
 filterout_keyterms_weight = {}
 filterout_keyterms_weight["pos_terms"] = {a_term:a_set_key_weight.get(a_term, 0)/sum_tfidf for a_term in filterout_keyterms.get("pos_terms")}
 filterout_keyterms_weight["neg_terms"] = {a_term:a_set_key_weight.get(a_term, 0)/sum_tfidf for a_term in filterout_keyterms.get("neg_terms")}
-
+# %%
 # save the result
 with open(os.path.join(filterout_keyterms_weight_dict_path, "{}.json".format(date.today())), 'w') as f:
     json.dump(filterout_keyterms_weight, f)

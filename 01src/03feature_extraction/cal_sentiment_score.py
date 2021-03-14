@@ -86,6 +86,9 @@ def main():
 
     all_data['positive_score'] = scaled_pos
     all_data['negative_score'] = scaled_neg
+    all_data['raw_positive_score'] = raw_pos
+    all_data['raw_negative_score'] = raw_neg
+
     all_data.to_pickle(os.path.join(scored_news_data_path, "scored_news_data_{}.pkl".format(date.today())))
 
 
