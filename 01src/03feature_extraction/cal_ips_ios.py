@@ -1,7 +1,7 @@
 # %%
 import os
 import pandas as pd
-
+import statsmodels.api as sm
 # %%
 merged_news_path = "D:\\work\\profFang\\ChineseNewsSentiment\\02data\\merged_company_news"
 merged_h5_file = os.listdir(os.path.join(merged_news_path, "h5"))[-1]
@@ -37,4 +37,22 @@ for a_asset in merged_h5.keys():
     ips.columns = ["positive_sum", "negative_sum"]
     ips.to_csv(os.path.join(ips_path, "{}.csv".format(a_asset[1:])))
 
+# %% regress
+market_sentiment_path = "D:\\work\\profFang\\ChineseNewsSentiment\\02data\\market_sentiment"
+market_sentiment = pd.read_csv(os.path.join(market_sentiment_path, "market_sentiment.csv"))
+Y = ios["positive_sum"].values
+X = market_sentiment.iloc[2:, -1]
+X = sm.add_constant(X)
+model = sm.OLS(Y,X)
+results = model.fit()
+print("resid of ios is\n", pd.Series(results.resid.values, index=ios["positive_sum"].index))
+# %%
+market_sentiment_path = "D:\\work\\profFang\\ChineseNewsSentiment\\02data\\market_sentiment"
+market_sentiment = pd.read_csv(os.path.join(market_sentiment_path, "market_sentiment.csv"))
+Y = ips["negative_sum"].values
+X = market_sentiment.iloc[2:, -1]
+X = sm.add_constant(X)
+model = sm.OLS(Y,X)
+results = model.fit()
+print("resid of ips is\n", pd.Series(results.resid.values, index=ios["negative_sum"].index))
 # %%

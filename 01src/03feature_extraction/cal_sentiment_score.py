@@ -63,8 +63,8 @@ def main():
     with open(os.path.join(idf_dict_path, '{}.json'.format(date.today())), 'w') as f:
         json.dump(idf_dict, f)
 
-    #%% score
-    # positive_score
+
+    #%% positive_score
     raw_pos = pd.Series(np.ndarray(len(all_data)))
     positive_terms = all_data.positive_terms
     for i in trange(len(positive_terms)):
@@ -72,9 +72,12 @@ def main():
         a_set_key_indices = [vectorizer.vocabulary_.get(a_term, 0) for a_term in a_terms]
         score = vectorized_content[i,a_set_key_indices].sum()
         raw_pos.iloc[i] = score
-    scaled_pos = (raw_pos - raw_pos.mean())/raw_pos.std()
+        
+    # scaled_pos = (raw_pos - raw_pos.mean())/raw_pos.std()
+    scaled_pos = (99 *(raw_pos - raw_pos.min())/(raw_pos.max()-raw_pos.min()))+1
 
-    # negative_score
+
+    #%% negative_score
     raw_neg = pd.Series(np.ndarray(len(all_data)))
     positive_terms = all_data.negative_terms
     for i in trange(len(positive_terms)):
@@ -82,8 +85,11 @@ def main():
         a_set_key_indices = [vectorizer.vocabulary_.get(a_term, 0) for a_term in a_terms]
         score = vectorized_content[i,a_set_key_indices].sum()
         raw_neg.iloc[i] = score
-    scaled_neg = (raw_neg - raw_neg.mean())/raw_neg.std()
 
+    # scaled_neg = (raw_neg - raw_neg.mean())/raw_neg.std()
+    scaled_neg = (99 *(raw_neg - raw_neg.min())/(raw_neg.max()-raw_neg.min()))+1
+
+    # %%
     all_data['positive_score'] = scaled_pos
     all_data['negative_score'] = scaled_neg
     all_data['raw_positive_score'] = raw_pos
