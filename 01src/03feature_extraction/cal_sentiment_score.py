@@ -22,7 +22,7 @@ finance_positive_terms = pd.read_csv(os.path.join(sentDictFolder, "FinancePositi
 print("negative terms count : {} \npositive terms count : {}".format(len(finance_negative_terms),len(finance_positive_terms)))
 terms = pd.concat([ntusd_positive_terms, finance_positive_terms, ntusd_negative_terms, finance_negative_terms])
 terms.apply(lambda x: jieba.add_word(x))
-
+terms
 # %%
 def get_a_corpus(a_content):
     a_content = a_content.strip()
@@ -73,7 +73,7 @@ def main():
         score = vectorized_content[i,a_set_key_indices].sum()
         raw_pos.iloc[i] = score
         
-    # scaled_pos = (raw_pos - raw_pos.mean())/raw_pos.std()
+
     scaled_pos = (99 *(raw_pos - raw_pos.min())/(raw_pos.max()-raw_pos.min()))+1
 
 
